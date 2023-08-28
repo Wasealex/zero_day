@@ -1,0 +1,1 @@
+this part is to find what uname do to ubuntu
